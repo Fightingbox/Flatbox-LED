@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libCRC32.a CMakeFiles/CRC32.dir/src/CRC32.cpp.obj
+/opt/homebrew/bin/arm-none-eabi-ranlib libCRC32.a

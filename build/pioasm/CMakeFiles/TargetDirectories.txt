@@ -1,0 +1,3 @@
+/Users/lyan/pico/Flatbox-LED/build/pioasm/CMakeFiles/pioasm.dir
+/Users/lyan/pico/Flatbox-LED/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/lyan/pico/Flatbox-LED/build/pioasm/CMakeFiles/rebuild_cache.dir
