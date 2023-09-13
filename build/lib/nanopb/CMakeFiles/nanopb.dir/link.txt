@@ -1,2 +1,0 @@
-/opt/homebrew/bin/arm-none-eabi-ar qc libnanopb.a CMakeFiles/nanopb.dir/pb_common.c.obj CMakeFiles/nanopb.dir/pb_decode.c.obj CMakeFiles/nanopb.dir/pb_encode.c.obj
-/opt/homebrew/bin/arm-none-eabi-ranlib libnanopb.a

@@ -1,1 +1,0 @@
-cmd='/opt/homebrew/Cellar/cmake/3.24.0/bin/cmake;-DCMAKE_MAKE_PROGRAM:FILEPATH=/usr/bin/make;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
