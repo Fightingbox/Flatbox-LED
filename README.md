@@ -8,6 +8,8 @@ Experience the ultimate fighting keyboard - redesigned based on Flatbox Rev4  [G
 
 ![Flatbox-LED](pictures/5.jpg)
 
+![Flatbox-LED](pictures/sch.jpg)
+
 ![Flatbox-LED](pictures/6.png)
 
 
