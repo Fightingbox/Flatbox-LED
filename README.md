@@ -1,9 +1,10 @@
 # Flatbox-LED 
-Based on the [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) Flatbox Rev4
 
-Add the colorful LEDs and the OLED display, perfect hardware change beased on the [Flatbox](https://github.com/jfedor2/flatbox) design by [jfedor2](https://github.com/jfedor2) powered by an RP2040 MCU.
+[Flatbox-LED the ultimate fighting keyboard](http://www.fightingbox.com/?product=fightingbox-mini-flatbox-hitbox-controller-for-ps4-fightstick-hot-swap-kailh-switch-arcade-joystick-for-pc-ps3-nintendo-switch)
 
-![Flatbox-LED](pictures/4.jpg)
+Experience the ultimate fighting keyboard - redesigned based on Flatbox Rev4  [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) . Featuring OLED display, full-color LED lightings, and a brand new 3D printed shell.Pair it with the transparent punk keycap for an even better user experience.
+
+![Flatbox-LED](pictures/1.jpeg)
 
 ![Flatbox-LED](pictures/5.jpg)
 
